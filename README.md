@@ -1,10 +1,10 @@
 # Deploy a simple HTML website using GitHub Pages
 Tools:github pages
 ## 📁 Project Structure
-.
 ├── index.html
 ├── style.css
 └── script.js
+ 
 Open index.html in your browser.
 
 📤 Deployment
