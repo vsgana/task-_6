@@ -18,5 +18,5 @@ Set source to `main` branch and `/ (root)` directory.
 
 https://vsgana.github.io/task-_6/
 
-
+![website](images/output.png)
 
