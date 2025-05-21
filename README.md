@@ -14,7 +14,7 @@ Push your code to the `main` branch.
 Go to `Settings > Pages` in the GitHub repo.  
 Set source to `main` branch and `/ (root)` directory.
 
-![Page Deployment](/pagedeploy.png)
+![Page Deployment](images/pagedeploy.png)
 
 https://vsgana.github.io/task-_6/
 
